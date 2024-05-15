@@ -5,7 +5,7 @@
 </h2>
 <h3 align="center">A passionate IT Engineer from India🌏</h3>
 <h3 align="center">Information Technology🌏</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e3b69ed39c13486e2540efb525a04faf05eb4404475b9afcab6120e6fc67607a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f35333837646337653033356233656665396439343531363034346465363661342e676966">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Shivam22042203&label=Profile%20views&color=0e75b6&style=flat" /> 
