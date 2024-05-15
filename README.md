@@ -70,9 +70,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)](#)
 
-## 🏷️ Holopin Badges
-[![An image of @Shivam22042003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Shivam22042003)](https://holopin.io/@Shivam22042003)
-
 ## 💻 GitHub Profile Stats
 
 
