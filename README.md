@@ -42,7 +42,6 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Apython)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript)
 
 <h3>🧰 Frameworks and Libraries</h3>
 
