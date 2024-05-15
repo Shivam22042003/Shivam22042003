@@ -79,6 +79,6 @@
 ![Shivam22042003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Shivam22042003 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Shivam22042003&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/Shivam22042003/Shivam22042003">
+  <img alt="Shivam22042003 Activity Graph" src="https://github.com/Shivam22042003/Shivam22042003?username=Shivam22042003&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
