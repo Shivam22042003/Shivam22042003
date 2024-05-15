@@ -1,3 +1,5 @@
+
+Copy code
 ![image](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 
 <h2 align="center">
@@ -14,11 +16,8 @@
 ## About Me
 
 - 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Shivam22042003).
-
-- 💬 Feel free to ask me about **HTML, CSS, javascript, and MachineLearning**.
-
+- 💬 Feel free to ask me about **HTML, CSS, JavaScript, and Machine Learning**.
 - 📫 Reach me at **yadavshivam6033@gmail.com**.
-
 - ⚡ Fun fact: **I think I'm consistent towards my goal**.
 
 ## 🤝Connect with Me
@@ -26,6 +25,8 @@
 [![Linkedin: Shivam](https://img.shields.io/badge/-Shivam-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shivam-yadav-551204255/)](https://www.linkedin.com/in/shivam-yadav-551204255/)
 [![GitHub followers](https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social)](https://github.com/Shivam22042003)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nishantpandey2004@gmail.com)](mailto:yadavshivam6033@gmail.com)
+
+
 
 
 ## 🛠️Languages and Tools
