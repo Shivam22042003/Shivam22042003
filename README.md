@@ -1,11 +1,11 @@
 <p align="center"><img src="https://github.com/Shivam22042003/Shivam22042003/blob/main/readme.gif"></p>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते,🙏🏻+Welcome,Myself Shivam Yadav;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते,🙏🏻+Welcome,+Myself+Shivam Yadav;"/>
 </h2>
 <h3 align="center">A passionate IT Engineer from India🌏</h3>
 <h3 align="center">Information Technology🌏</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nishant-pandey-2004&label=Profile%20views&color=0e75b6&style=flat" /> 
