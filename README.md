@@ -79,5 +79,4 @@
 ![Shivam22042003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Activity Graph -->
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/Shivam22042003/Shivam22042003)
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22042003&theme=react-dark)]("https://github.com/Shivam22042003/Shivam22042003)
