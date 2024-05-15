@@ -1,11 +1,11 @@
-![image](https://github.com/Shivam22042003/Shivam22042003/assets/115684551/e6f56946-1fc8-4563-b360-17725b353cdf)<p align="center"><img src="https://github.com/Shivam22042003/Shivam22042003/blob/main/readme.gif"></p>
+![image](https://github.com/Shivam22042003/Shivam22042003/assets/115684551/e6f56946-1fc8-4563-b360-17725b353cdf)<p align="center"><img src=></p>
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते,🙏🏻+Welcome,+Myself+Shivam Yadav;"/>
 </h2>
 <h3 align="center">A passionate IT Engineer from India🌏</h3>
 <h3 align="center">Information Technology🌏</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e3b69ed39c13486e2540efb525a04faf05eb4404475b9afcab6120e6fc67607a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f35333837646337653033356233656665396439343531363034346465363661342e676966">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Shivam22042203&label=Profile%20views&color=0e75b6&style=flat" /> 
