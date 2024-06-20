@@ -1,44 +1,27 @@
-<!-- Banner Section -->
 ![Header](https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 
-<!-- Introduction -->
 <h3 align="center">A Passionate IT Engineer from India 🌏</h3>
 <h3 align="center">Information Technology Enthusiast 🌏</h3>
 
-<!-- Align Profile Views to the left -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Shivam22042003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<!-- Main Content Section -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+## About Me
 
-  <!-- Left Column: About Me -->
-  <div style="flex: 1; padding-right: 20px;">
-  
-    ## About Me
-    
-    - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shivam22042003)
-    - 💬 Ask me about **HTML, CSS, JavaScript, and Machine Learning**
-    - 📫 Reach me at **yadavshivam6033@gmail.com**
-    - ⚡ Fun fact: **I think I'm consistent towards my goal**
-    
-    ## 🤝 Connect with Me
-    
-    [![LinkedIn: Shivam](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-yadav-551204255/)](https://www.linkedin.com/in/shivam-yadav-551204255/)
-    [![GitHub followers](https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social)](https://github.com/Shivam22042003)
-    [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yadavshivam6033@gmail.com)](mailto:yadavshivam6033@gmail.com)
-  
-  </div>
-  
-  <!-- Right Column: Coding GIF -->
-  <div style="flex: 1; max-width: 400px;">
-    <img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-  </div>
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shivam22042003)
+- 💬 Ask me about **HTML, CSS, JavaScript, and Machine Learning**
+- 📫 Reach me at **yadavshivam6033@gmail.com**
+- ⚡ Fun fact: **I think I'm consistent towards my goal**
 
-</div>
+## 🤝 Connect with Me
 
-<!-- Languages and Tools Section -->
+[![LinkedIn: Shivam](https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-yadav-551204255/)](https://www.linkedin.com/in/shivam-yadav-551204255/)
+[![GitHub followers](https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social)](https://github.com/Shivam22042003)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yadavshivam6033@gmail.com)](mailto:yadavshivam6033@gmail.com)
+
 ## 🛠️ Languages and Tools
 
 ### 👨‍💻 Programming and Markup Languages
