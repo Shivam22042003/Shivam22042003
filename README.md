@@ -1,26 +1,30 @@
 ![Header](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-## A Passionate IT Engineer from India 🌏
-## Information Technology Enthusiast 🌏
+<h2 align="center">A Passionate IT Engineer from India 🌏</h2>
+<h3 align="center">Information Technology Enthusiast 🌏</h3>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" align="right">
-</p>
-
-### About Me
-
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shivam22042003).
-- 💬 Ask me about **HTML, CSS, JavaScript, and Machine Learning**.
-- 📫 Reach me at **yadavshivam6033@gmail.com**.
-- ⚡ Fun fact: **I think I'm consistent towards my goal**.
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivam22042003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>About Me</h3>
+    <ul>
+      <li>👨‍💻 All of my projects are available on <a href="https://github.com/Shivam22042003">GitHub</a>.</li>
+      <li>💬 Ask me about <strong>HTML, CSS, JavaScript, and Machine Learning</strong>.</li>
+      <li>📫 Reach me at <a href="mailto:yadavshivam6033@gmail.com">yadavshivam6033@gmail.com</a>.</li>
+      <li>⚡ Fun fact: <strong>I think I'm consistent towards my goal</strong>.</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
+  </div>
+</div>
+
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shivam-yadav-551204255/"><img src="https://img.shields.io/badge/-Shivam-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Shivam22042003"><img src="https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="mailto:yadavshivam6033@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
@@ -30,7 +34,7 @@
 
 ### 👨‍💻 Programming and Markup Languages
 
-<p align="left">
+<p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" alt="C">
   <img src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" alt="C++">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white" alt="C#">
@@ -45,7 +49,7 @@
 
 ### 🧰 Frameworks and Libraries
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" alt="GitHub Actions">
@@ -56,7 +60,7 @@
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" alt="GitHub Pages">
   <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" alt="MySQL">
@@ -65,7 +69,7 @@
 
 ### 💻 Software and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" alt="GitHub Desktop">
@@ -77,13 +81,13 @@
 
 ## 💻 GitHub Profile Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Shivam22042003's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam22042003&theme=vision-friendly-dark&hide_border=true" alt="Shivam22042003's Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Shivam22042003's Top Languages" />
 </p>
 
 <!-- Activity Graph -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam22042003&theme=react-dark" alt="Shivam's GitHub Activity Graph">
 </p>
