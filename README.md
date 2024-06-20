@@ -10,7 +10,7 @@
 </p>
 
 ## About Me
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shivam22042003)
 - 💬 Ask me about **HTML, CSS, JavaScript, and Machine Learning**
 - 📫 Reach me at **yadavshivam6033@gmail.com**
