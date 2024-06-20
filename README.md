@@ -65,9 +65,21 @@
 
 ## 💻 GitHub Profile Stats
 
-![Shivam22042003's Stats](https://github-readme-stats.vercel.app/api?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-![Shivam22042003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam22042003&theme=vision-friendly-dark&hide_border=true)
-![Shivam22042003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Shivam22042003's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam22042003&theme=vision-friendly-dark&hide_border=true" alt="Shivam22042003's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Shivam22042003's Top Languages" />
+</div>
 
 <!-- Activity Graph -->
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22042003&theme=react-dark)](https://github.com/Shivam22042003/Shivam22042003)
+
+<style>
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
