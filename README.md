@@ -1,4 +1,4 @@
-![Header](https://fsa2-assets.imgix.net/assets/New-blog/computer-ready-for-coding.jpg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=798&ixlib=php-3.3.1&w=1200)
+![Header](https://www.hubspot.com/hubfs/how-to-start-coding-1.jpg)
 
 <h3 align="center">A Passionate IT Engineer from India 🌏</h3>
 <h3 align="center">Information Technology Enthusiast 🌏</h3>
