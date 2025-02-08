@@ -35,35 +35,54 @@
 
 ## **🛠️ Tech Stack & Tools**  
 
-### **💻 Programming & Markup Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)  
-![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)  
-![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)  
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)  
+<div align="center">
+  
+<table>
+  <tr>
+    <td align="center"><b>💻 Programming & Markup</b></td>
+    <td align="center"><b>🚀 Frameworks & Libraries</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"><br>
+      <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"><br>
+      <img src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><br>
+      <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><br>
+      <img src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Databases & Cloud Services</b></td>
+    <td align="center"><b>🛠 Software & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-### **🚀 Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)  
-
-### **🌐 Databases & Cloud Services**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white)  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)  
-
-### **🛠 Software & Tools**  
-![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)  
+</div>
 
 ---
 
