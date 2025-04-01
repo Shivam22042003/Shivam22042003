@@ -13,6 +13,9 @@
 
 ---
 
+<div align="center">
+💻 Languages	⚙️ Frameworks	☁️ Cloud & DB	🧰 Tools
+</div>
 ## 🧠 About Me
 
 ```javascript
