@@ -1,108 +1,91 @@
-# 🚀 Welcome to My Digital Playground! | Full-Stack Developer | IT Engineer | UI/UX Enthusiast | ML Learner
+<!-- Profile Header -->
+<h1 align="center">🚀 Welcome to My Digital Playground</h1>
+<h3 align="center">🧠 Full-Stack Developer | 👨‍💻 IT Engineer | 🎨 UI/UX Enthusiast | 🤖 ML Learner</h3>
 
-![Header](https://www.hubspot.com/hubfs/how-to-start-coding-1.jpg)
+<p align="center">
+  <img src="https://www.hubspot.com/hubfs/how-to-start-coding-1.jpg" width="80%" alt="Header Image">
+</p>
 
-<h2 align="center">👨‍💻 IT Engineer | Web & Software Developer | Problem Solver</h2>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=Shivam22042003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
-</p>  
-
----
-
-## **👋 About Me**  
-
-- 🎓 **B.E. in Information Technology** (CGPA: 9.07)  
-- 👨‍💻 **Full-Stack Developer** with expertise in **React.js, JavaScript, and UI/UX Design**  
-- 🤖 **Machine Learning Enthusiast**, passionate about **AI & Data Science**  
-- 🔧 **Tech Stack:** JavaScript, Python, React.js, .NET, MongoDB, SQL, AWS  
-- 💬 Ask me about **Frontend Development, UI/UX, and Problem Solving**  
-- 🏆 **Competitive Coder** (800+ problems solved on LeetCode & CodeChef)  
-- 📫 Reach me at **[yadavshivam6033@gmail.com](mailto:yadavshivam6033@gmail.com)**  
-- ⚡ Fun fact: **I believe consistency beats intensity!**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam22042003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## **🤝 Connect with Me**  
+## 👋 About Me
 
-[![LinkedIn: Shivam](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-yadav-551204255/)](https://www.linkedin.com/in/shivam-yadav-551204255/)  
-[![GitHub followers](https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social)](https://github.com/Shivam22042003)  
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yadavshivam6033@gmail.com)](mailto:yadavshivam6033@gmail.com)  
+- 🎓 **B.E. in Information Technology** (CGPA: 9.07)
+- 💻 **Full-Stack Developer** (React.js, Node.js, MongoDB)
+- 🧠 **Machine Learning Enthusiast** with a love for AI and Data Science
+- 🧩 **Problem Solver** and **Competitive Coder** (800+ problems on LeetCode & CodeChef)
+- 🎨 Passionate about **UI/UX Design**
+- 🌍 **Open to Collaborations** on exciting tech projects
+- 📫 **[Email Me](mailto:yadavshivam6033@gmail.com)** | 🌐 **[LinkedIn](https://www.linkedin.com/in/shivam-yadav-551204255/)**
 
 ---
 
-## **🛠️ Tech Stack & Tools**  
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+### 🌐 Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td align="center"><b>💻 Programming & Markup</b></td>
-    <td align="center"><b>🚀 Frameworks & Libraries</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"><br>
-      <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"><br>
-      <img src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"><br>
-      <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"><br>
-      <img src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Databases & Cloud Services</b></td>
-    <td align="center"><b>🛠 Software & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam22042003&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shivam22042003&theme=tokyonight&hide_border=true" width="49%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
 
-## **📊 GitHub Stats**  
+## 📊 Contribution Graph
 
-![Shivam22042003's Stats](https://github-readme-stats.vercel.app/api?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)  
-![Shivam22042003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam22042003&theme=vision-friendly-dark&hide_border=true)  
-![Shivam22042003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam22042003&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)  
+[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22042003&theme=tokyo-night)](https://github.com/Shivam22042003)
 
 ---
 
-## **📈 Contribution Graph**  
+## 🌐 Let's Connect
 
-[![Shivam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam22042003&theme=react-dark)](https://github.com/Shivam22042003/Shivam22042003)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-yadav-551204255/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:yadavshivam6033@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/Shivam22042003"><img src="https://img.shields.io/github/followers/Shivam22042003?label=Follow&style=social"></a>
+</p>
 
 ---
 
-### **🔥 Fun Fact**  
-💡 **"Consistency beats intensity – small efforts every day lead to big achievements!"** 🚀  
+## 🔥 Fun Fact  
+💡 *"Consistency beats intensity – small efforts every day lead to big achievements!"* 🚀
 
 ---
 
-🎯 **Thanks for stopping by! Happy Coding!** 😃💻  
+<p align="center">💻✨ Thanks for visiting — Happy Coding!</p>
+
