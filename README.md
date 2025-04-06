@@ -1,17 +1,53 @@
-<!-- Hero Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hey+there!+I'm+Shivam+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;ML+Explorer+%F0%9F%94%8E" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <p align="center">
-  <img src="https://github.com/Shivam22042003/Shivam22042003/blob/main/assets/banner-glass.png" alt="Banner" width="100%">
+  <em>Aspiring Software Developer | AI Enthusiast | Full Stack Developer | Chess Lover</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam22042003&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="mailto:yadavshiv6033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-github-id"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
+
+### 🧠 About Me
+
+- 🎓 **B.E. in Information Technology** – Thakur College of Engineering and Technology, CGPA: 9.1  
+- 👨‍💻 SDE Intern @ **ACMEGRADE** | April’24 – June’24  
+- 🛠️ Passionate about full stack development, real-time systems, and AI-powered applications  
+- ♟️ National-level chess player and hackathon finalist  
+
+---
+
+### 🚀 Projects
+
+- **DivyaBharat** – AI-powered tourism platform (Gemini API, Razorpay, MongoDB, Vercel)  
+- **N-Queens Visualizer** – Interactive backtracking with real-time D3.js animations  
+- **RecipeGenie** – AI-based nutrition planner with image recognition (Gemini + Vision API)
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** C++, Java, Python  
+- **Web:** React.js, Node.js, Spring Boot, Express  
+- **Database:** MongoDB, SQL  
+- **Tools:** AWS, Azure, Vercel, Git, Figma  
+- **Core:** DSA, OOP, OS, CN, DBMS
+
+---
+
+### 📫 Contact Me
+
+📍 Mumbai, India  
+📧 yadavshiv6033@gmail.com  
+
+---
+
+<p align="center">
+  <em>"Building scalable solutions. One project at a time."</em>
+</p>
 
 <div align="center">
 💻 Languages	⚙️ Frameworks	☁️ Cloud & DB	🧰 Tools
