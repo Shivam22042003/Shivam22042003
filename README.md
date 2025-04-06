@@ -49,16 +49,3 @@
   <em>"Building scalable solutions. One project at a time."</em>
 </p>
 
-<div align="center">
-💻 Languages	⚙️ Frameworks	☁️ Cloud & DB	🧰 Tools
-</div>
-## 🧠 About Me
-
-```javascript
-const shivam = {
-  code: ["JavaScript", "Python", "C++", "Java"],
-  askMeAbout: ["Web Dev", "UI/UX", "React", "Machine Learning"],
-  tools: ["VSCode", "Figma", "Git", "Postman", "Jupyter"],
-  softSkills: ["Problem Solving", "Creativity", "Communication"],
-  funFact: "Consistency beats intensity 🚀"
-};
