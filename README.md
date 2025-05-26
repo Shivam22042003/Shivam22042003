@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=shivam22042003&label=Profile%20views&color=0e75b6&style=flat" alt="shivam22042003" />
 </p>
 
-<img align="right" src="https://github.com/karan-panda/karan-panda/assets/108183567/1ede6edb-41ba-49a5-94a2-43c16a11985c" alt="coding gif" width="250" />
+<!-- 👨‍💻 Eye-catching terminal-style coding animation -->
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="terminal coding animation" width="300" />
 
 - 🔭 I’m currently working on **AI-powered platforms, full-stack web apps, and cloud deployment**
 - 🌱 I’m exploring **Generative AI, Gemini API, AWS EC2, and advanced DSA**
@@ -25,7 +26,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shivam22042003/)
 
 ## 🧠 Education & Achievements
-- 🎓 **Thakur College of Engineering & Technology**, B.E. IT (2021–2025), CGPA: 9.1
+- 🎓 Thakur College of Engineering & Technology, B.E. IT (2021–2025), CGPA: 9.1
 - 🏆 800+ Problems Solved on LeetCode/CodeChef | GFG Rank: 5 | Starters Global Rank: 54/3202
 - 🥈 Hackathon Runner-up | Winner of Research Paper Presentation
 - ♟️ 4x Chess Team Lead in college fests like Reflex & T-Spark
