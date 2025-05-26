@@ -9,7 +9,7 @@
 </p>
 
 <!-- 👨‍💻 Eye-catching terminal-style coding animation -->
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="terminal coding animation" width="500" />
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="terminal coding animation" width="450" />
 
 - 🔭 I’m currently working on **AI-powered platforms, full-stack web apps, and cloud deployment**
 - 🌱 I’m exploring **Generative AI, Gemini API, AWS EC2, and advanced DSA**
