@@ -15,7 +15,7 @@
 - 🌱 I’m exploring **Generative AI, Gemini API, AWS EC2, and advanced DSA**
 - 🤝 I’m open to **collaborating on impactful open-source and AI-driven projects**
 - 💬 Ask me about **React.js, Node.js, MongoDB, AWS, Gemini API**
-- 📫 Reach me at **yadavshiv6033@gmail.com**
+- 📫 Reach me at **yadavshivam6033@gmail.com**
 - ⚡ Fun fact: **I’ve solved 800+ DSA problems and love competitive coding & chess**
 
 ## 🌐 Let's Connect
