@@ -9,7 +9,7 @@
 </p>
 
 <!-- 👨‍💻 Eye-catching terminal-style coding animation -->
-<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="terminal coding animation" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="terminal coding animation" width="500" />
 
 - 🔭 I’m currently working on **AI-powered platforms, full-stack web apps, and cloud deployment**
 - 🌱 I’m exploring **Generative AI, Gemini API, AWS EC2, and advanced DSA**
@@ -19,15 +19,15 @@
 - ⚡ Fun fact: **I’ve solved 800+ DSA problems and love competitive coding & chess**
 
 ## 🌐 Let's Connect
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavshiv6033@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam22042003/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavshivam6033@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-yadav-551204255/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam22042003)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mrpanda1206)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shivam22042003/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivam_6033)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Shivam_6033/)
 
 ## 🧠 Education & Achievements
 - 🎓 Thakur College of Engineering & Technology, B.E. IT (2021–2025), CGPA: 9.1
-- 🏆 800+ Problems Solved on LeetCode/CodeChef | GFG Rank: 5 | Starters Global Rank: 54/3202
+- 🏆 800+ Problems Solved on LeetCode/CodeChef 
 - 🥈 Hackathon Runner-up | Winner of Research Paper Presentation
 - ♟️ 4x Chess Team Lead in college fests like Reflex & T-Spark
 
